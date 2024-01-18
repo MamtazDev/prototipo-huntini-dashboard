@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Epilogue:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.cdnfonts.com/css/cabinet-grotesk');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.content-container{
+    max-width: 1180px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+
+.dfd{
+    color: #89807880;
+}
