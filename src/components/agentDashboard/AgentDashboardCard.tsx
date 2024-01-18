@@ -1,7 +1,7 @@
-import carImg from "../../../assets/car.png";
-import cardImg1 from "../../../assets/card-img1.png";
-import sizeImg from "../../../assets/full-arrow.png";
-import badImg from "../../../assets/single-bad.png";
+import carImg from "../../assets/car.png";
+import cardImg1 from "../../assets/card-img1.png";
+import sizeImg from "../../assets/full-arrow.png";
+import badImg from "../../assets/single-bad.png";
 
 const AgentDashboardCard = () => {
   return (

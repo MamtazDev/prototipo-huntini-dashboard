@@ -1,6 +1,5 @@
-import React from "react";
 import { Link } from "react-router-dom";
-import AgentDashboardCard from "./agentDashboardCard/AgentDashboardCard";
+import AgentDashboardCard from "../components/agentDashboard/AgentDashboardCard";
 
 const AgentDashboard = () => {
   return (

@@ -1,4 +1,4 @@
-import AgentDashboardCard from "../components/agentDashboard/agentDashboardCard/AgentDashboardCard";
+import AgentDashboardCard from "../components/agentDashboard/AgentDashboardCard";
 
 const FindProperties = () => {
   return (

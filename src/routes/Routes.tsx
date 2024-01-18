@@ -1,10 +1,8 @@
 import { createBrowserRouter } from "react-router-dom";
 import Layout from "../layout/Layout";
+import AgentDashboard from "../pages/AgentDashboard";
 import Error from "../pages/Error";
 import FindProperties from "../pages/FindProperties";
-import AgentDashboard from './../components/agentDashboard/AgentDashboard';
-
-
 
 export const router = createBrowserRouter([
     {
